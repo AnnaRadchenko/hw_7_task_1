@@ -1,0 +1,132 @@
+
+body
+{
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	line-height: 1;
+}
+
+.sivtsev
+{
+	text-align: left;
+	width: 400px;
+	text-transform: uppercase;
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	color: transparent;
+}
+
+/* css for child elements*/
+.sight01
+{
+	letter-spacing: 240px;
+	padding-left: 15px;
+	padding-bottom: 80px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.9);
+	font-size: 78px;
+}
+
+.sight02
+{
+	letter-spacing: 100px;
+	padding-left: 15px;
+	padding-bottom: 70px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.8);
+	font-size: 74px;
+}
+
+.sight03
+{
+	letter-spacing: 54px;
+	padding-left: 15px;
+	padding-bottom: 70px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.7);	
+	font-size: 62px;
+}
+
+.sight04
+{
+	letter-spacing: 40px;
+	padding-left: 15px;
+	padding-bottom: 60px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 56px;
+}
+
+.sight05
+{
+	letter-spacing: 46px;
+	padding-left: 15px;
+	padding-bottom: 60px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 48px;
+}
+
+.sight06
+{
+	letter-spacing: 38px;
+	padding-left: 15px;
+	padding-bottom: 50px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 40px;
+}
+
+.sight07
+{
+	letter-spacing: 44px;
+	padding-left: 15px;
+	padding-bottom: 40px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 34px;
+}
+
+.sight08
+{
+	letter-spacing: 41px;
+	padding-left: 15px;
+	padding-bottom: 45px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 24px;
+}
+
+.sight09
+{
+	letter-spacing: 46px;
+	padding-left: 15px;
+	padding-bottom: 40px;
+	text-shadow: 0 0 3px rgba(0,0,0,0.6);	
+	font-size: 18px;
+}
+
+.sight10
+{
+	letter-spacing: 43px;
+	margin-left: 15px;
+	padding-bottom: 15px;
+ 	text-shadow: 0 0 2px rgba(0,0,0,0.7);	
+	font-size: 12px;
+	box-shadow: 0 2px 1px -1px #FF8080;
+	width: 92%;
+}
+
+.sight15
+{
+	letter-spacing: 45px;
+	padding-left: 14px;
+	padding-bottom: 30px;
+	text-shadow: 0 0 2px rgba(0,0,0,0.7);	
+	font-size: 10px;
+	margin-top: 15px;
+}
+
+.sight20
+{
+	letter-spacing: 47px;
+	padding-left: 14px;
+	text-shadow: 0 0 2px rgba(0,0,0,0.7);	
+	font-size: 8px;
+}
+
